@@ -1,1 +1,1 @@
-Day 2 Solutions
+Day 2 Solutions.
